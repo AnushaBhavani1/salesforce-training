@@ -1,4 +1,6 @@
 # Day 1 – CRM Basics
+#What is Salesforce?
+Salesforce is a cloud-based CRM platform used to manage customers, sales, services, and business workflows efficiently.
 ## What is CRM?
 
 CRM stands for Customer Relationship Management.
